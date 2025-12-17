@@ -6,6 +6,8 @@ public class Main {
         int a = 7;
         a++;
         System.out.println("El nuevo valor de a es " + a);
+        int b = 10;
+        int suma = a+b;
     }
 
 

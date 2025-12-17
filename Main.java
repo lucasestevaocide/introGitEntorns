@@ -9,7 +9,7 @@ public class Main {
         int b = 10;
         int suma = a+b;
         int multiplicado = a*b;
-         System.out.println(multiplicado);
+        System.out.println(multiplicado);
          
     }
 

@@ -8,6 +8,8 @@ public class Main {
         System.out.println("El nuevo valor de a es " + a);
         int b = 10;
         int suma = a+b;
+        int multiplicado = a*b;
+         System.out.println(multiplicado);
     }
 
 
